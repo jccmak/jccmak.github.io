@@ -2,4 +2,4 @@
 
 Test test test
 
-[[SCRATCH1.md]]
+[An Internal Link](/SCRATCH1.md)
